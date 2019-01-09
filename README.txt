@@ -1,5 +1,3 @@
-MATLAB 2018 code.
-
 3D region growing algorithm, returns the grown region (reg) as a logical array
 
 img = desired image to be masked, 3D array
